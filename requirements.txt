@@ -1,0 +1,7 @@
+streamlit
+joblib
+xgboost
+streamlit_option_menu
+ipykernel
+scikit-learn
+-e .
